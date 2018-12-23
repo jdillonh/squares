@@ -1,2 +1,2 @@
 # squares
-Hope you enjoy this _mesmerizing_ and fun sketch. 
+Hope you enjoy this fun sketch. 
