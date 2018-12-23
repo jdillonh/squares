@@ -1,3 +1,3 @@
 # squares
-Hope you enjoy this fun sketch. 
+Hope you enjoy this fun sketch.   
 ![squares](out.gif)
